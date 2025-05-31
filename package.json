@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@radix-ui/react-dialog": "^1.1.14",
+    "@radix-ui/react-tabs": "^1.1.12",
+    "concurrently": "^9.1.2",
+    "date-fns": "^4.1.0",
+    "lucide-react": "^0.511.0",
+    "openai": "^5.0.1",
+    "react-day-picker": "^9.7.0",
+    "react-markdown": "^10.1.0"
+  },
+  "name": "estandaressoft",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoC21/EstandaresSoft.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoC21/EstandaresSoft/issues"
+  },
+  "homepage": "https://github.com/SantiagoC21/EstandaresSoft#readme",
+  "description": ""
+}
